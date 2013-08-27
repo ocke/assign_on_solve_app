@@ -1,4 +1,4 @@
-assign_on_solve_app
-===================
+Zendesk Assign On Solve App
+===============
 
-Assign a ticket on solve using Apps Save Hook!
+This is the Assign On Solve for Zendesk. The app will assign the ticket to the user setting the status to Solved __if__ that ticket is unassigned at the time of the submission. Please submit bug reports to [Zendesk](http://support.zendesk.com/). Pull requests are welcome.

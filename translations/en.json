@@ -1,0 +1,11 @@
+{
+  "app": {
+    "description":  "Assign ticket to current user when assignee is empty.",
+    "name":         "Assign on Solve"
+  },
+  "modal": {
+    "main" :  "This ticket will be assigned to {{name}} and solved.",
+    "no"   :  "Cancel",
+    "yes"  :  "Yes please!"
+  }
+}

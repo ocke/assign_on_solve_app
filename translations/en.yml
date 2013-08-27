@@ -1,0 +1,28 @@
+---
+title: "Assign on Solve"
+packages:
+  - default
+  - app_assign_on_solve_app
+
+parts:
+  - translation:
+      key: "txt.apps.assign_on_solve_app.app.description"
+      title: "This is the description text of this app in the marketplace"
+      value: "Assign ticket to current user when assignee is empty."
+  - translation:
+      key: "txt.apps.assign_on_solve_app.app.name"
+      title: "This is the name of the App, it means the app assigns a ticket to whoever is solving it"
+      value: "Assign on Solve"
+  - translation:
+      key: "txt.apps.assign_on_solve_app.modal.main"
+      title: "This is the sentence in the pop up that the agent sees when he is about to solve it. the name will very highly likely be his own since he is solving the ticket"
+      value: "This ticket will be assigned to {{name}} and solved."
+  - translation:
+      key: "txt.apps.assign_on_solve_app.modal.no"
+      title: "this is a button on the confirmation box also called modal to just go back and cancel ticket submission"
+      value: "Cancel"
+  - translation:
+      key: "txt.apps.assign_on_solve_app.modal.yes"
+      title: "This is a button on the modal to approve the message in main above and let the ticket submission go through"
+      value: "Yes please!"
+
