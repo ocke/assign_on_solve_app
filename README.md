@@ -4,7 +4,7 @@
 
 ## Description:
 
-:alert: THIS APP IS UN-TESTABLE AND UN-USABLE IN PRODUCTION :alert: 
+:no_entry: THIS APP IS UN-TESTABLE AND UN-USABLE IN PRODUCTION :no_entry: 
 
 The reason why is that Zendesk has since added client side validation, making it impossible to submit a ticket without a requester already. Therefore this App is only here for demonstration purposes on how to use the Save Hook. 
 
